@@ -126,7 +126,7 @@ const Contact = () => {
                   className="w-12 h-12 bg-gray-100 dark:bg-gray-800 rounded-xl flex items-center justify-center hover:bg-accent-100 dark:hover:bg-accent-900/30 transition-colors"
                 >
                   <img
-                  src="public/linkedinn.svg"
+                  src="/linkedinn.svg"
   className="w-6 h-6 text-[#0A66C2]"  // LinkedIn brand blue
 
 
