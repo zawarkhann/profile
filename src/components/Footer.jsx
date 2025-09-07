@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-2">
             <h3 className="text-xl font-bold gradient-text mb-4">
-              {"<HelloWorld />"}
+              {"</>"}
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4 max-w-md">
               Building innovative digital solutions that push the boundaries of

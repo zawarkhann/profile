@@ -61,7 +61,7 @@ const Header = () => {
               whileTap={{ scale: 0.95 }}
               className="text-xl sm:text-2xl font-bold gradient-text"
             >
-              {"<HelloWorld />"}
+              {"</>"}
             </motion.div>
           </Link>
 
