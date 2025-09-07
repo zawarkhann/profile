@@ -195,14 +195,7 @@ const Terminal = () => {
   // Welcome Message
   useEffect(() => {
     const welcomeMessage = [
-      "Welcome to Portfolio Terminal v1.0.0",
-      "",
-      "  ██████╗  ██████╗ ██████╗ ████████╗███████╗ ██████╗ ██╗     ██╗ ██████╗ ",
-      "  ██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝██╔═══██╗██║     ██║██╔═══██╗",
-      "  ██████╔╝██║   ██║██████╔╝   ██║   █████╗  ██║   ██║██║     ██║██║   ██║",
-      "  ██╔═══╝ ██║   ██║██╔══██╗   ██║   ██╔══╝  ██║   ██║██║     ██║██║   ██║",
-      "  ██║     ╚██████╔╝██║  ██║   ██║   ██║     ╚██████╔╝███████╗██║╚██████╔╝",
-      "  ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═════╝ ╚══════╝╚═╝ ╚═════╝ ",
+      "Welcome to Zawar's Portfolio Terminal v1.0.0",
       "",
       "Connected to portfolio-server...",
       "System initialized successfully.",
@@ -369,10 +362,7 @@ const Terminal = () => {
 
       {/* Footer */}
       <div className="mt-4 text-center text-sm text-gray-600 dark:text-gray-400">
-        <p>
-          Interactive terminal • Type 'help' for commands • Use ↑/↓ for history •
-          Tab for completion
-        </p>
+       
         <p className="mt-1">
           All projects are intellectual property of{' '}
           <a
